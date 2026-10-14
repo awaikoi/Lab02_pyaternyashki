@@ -1,1 +1,6 @@
-# Lab02_pyaternyashki
+# Lab02\_pyaternyashki
+
+
+
+Навчальний проєкт на Python для роботи з різними програмами.
+
