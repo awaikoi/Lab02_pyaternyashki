@@ -16,7 +16,6 @@
 ## Технології
 
 - Python 3
-- SQLite
 - aiogram
 - python-dotenv
 - Стандартні бібліотеки Python
